@@ -1,0 +1,8 @@
+[package]
+name = "grepOwn"
+version = "0.1.0"
+authors = ["Tobias van Driessel <tobiasvandriessel@startmail.com>"]
+
+[dependencies]
+regex = "1"
+structopt = "0.2.8"
